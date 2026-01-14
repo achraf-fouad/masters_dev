@@ -1,0 +1,51 @@
+{
+    "hero": {
+        "title": "Welcome to masters_dev",
+        "slogan": "We Build Digital Solutions That Drive Growth",
+        "cta": "Contact Us"
+    },
+    "story": {
+        "title": "Our Story",
+        "description": "Started with a passion for coding, masters_dev has grown into a team dedicated to helping businesses succeed online."
+    },
+    "about": {
+        "title": "About masters_dev",
+        "service_1": "Professional Websites",
+        "service_2": "E-commerce Stores",
+        "service_3": "Business Solutions"
+    },
+    "services": {
+        "title": "Our Services",
+        "web_design": "Web Design",
+        "web_dev": "Web Development",
+        "ecommerce": "E-commerce Solutions",
+        "business": "Business Websites"
+    },
+    "projects": {
+        "title": "Our Featured Projects",
+        "subtitle": "Explore some of our recent digital masterpieces. We bring ideas to life with precision and creativity."
+    },
+    "testimonials": {
+        "title": "What Our Clients Say",
+        "review1": "The team at masters_dev transformed our digital presence. Their attention to detail and modern design approach is unmatched.",
+        "review2": "Incredible professionalism! They delivered our e-commerce site ahead of schedule and it looks absolutely stunning.",
+        "review3": "The best investment we made this year. Our conversion rates doubled after the redesign. Highly recommended!"
+    },
+    "form": {
+        "title": "Start Your Project",
+        "name": "Full Name",
+        "email": "Email Address",
+        "business_name": "Business Name",
+        "type": "Type of Business",
+        "message": "Message / Project Description",
+        "submit": "Send Message"
+    },
+    "contact": {
+        "title": "Contact Us",
+        "email": "Email Us",
+        "follow": "Follow Us"
+    },
+    "footer": {
+        "copyright": "© 2026 masters_dev. All rights reserved."
+    }
+}

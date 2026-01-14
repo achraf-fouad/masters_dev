@@ -1,0 +1,51 @@
+{
+    "hero": {
+        "title": "Bienvenue chez masters_dev",
+        "slogan": "Nous créons des solutions numériques pour votre croissance",
+        "cta": "Contactez-nous"
+    },
+    "story": {
+        "title": "Notre Histoire",
+        "description": "Commencé par une passion pour le code, masters_dev est devenu une équipe dédiée à aider les entreprises à réussir en ligne."
+    },
+    "about": {
+        "title": "À propos de masters_dev",
+        "service_1": "Sites Web Professionnels",
+        "service_2": "Boutiques E-commerce",
+        "service_3": "Solutions d'Affaires"
+    },
+    "services": {
+        "title": "Nos Services",
+        "web_design": "Web Design",
+        "web_dev": "Développement Web",
+        "ecommerce": "Solutions E-commerce",
+        "business": "Sites d'Entreprise"
+    },
+    "projects": {
+        "title": "Nos Projets",
+        "subtitle": "Découvrez certaines de nos réalisations numériques. Nous donnons vie aux idées avec précision et créativité."
+    },
+    "testimonials": {
+        "title": "Avis de nos Clients",
+        "review1": "L'équipe de masters_dev a transformé notre présence numérique. Leur souci du détail et leur approche moderne sont inégalés.",
+        "review2": "Un professionnalisme incroyable ! Ils ont livré notre site de commerce électronique avant la date prévue et il est absolument magnifique.",
+        "review3": "Le meilleur investissement que nous avons fait cette année. Nos taux de conversion ont doublé après la refonte. Hautement recommandé !"
+    },
+    "form": {
+        "title": "Commencez Votre Projet",
+        "name": "Nom Complet",
+        "email": "Adresse Email",
+        "business_name": "Nom de l'Entreprise",
+        "type": "Type d'Entreprise",
+        "message": "Message / Description du Projet",
+        "submit": "Envoyer le Message"
+    },
+    "contact": {
+        "title": "Contactez-nous",
+        "email": "Envoyez-nous un Email",
+        "follow": "Suivez-nous"
+    },
+    "footer": {
+        "copyright": "© 2026 masters_dev. Tous droits réservés."
+    }
+}

@@ -38,7 +38,11 @@
         "business_name": "Nom de l'Entreprise",
         "type": "Type d'Entreprise",
         "message": "Message / Description du Projet",
-        "submit": "Envoyer le Message"
+        "submit": "Envoyer le Message",
+        "success_title": "Message Envoyé !",
+        "success_message": "Merci de nous avoir contactés. Nous avons bien reçu votre message et vous répondrons dans les 24 heures.",
+        "send_another": "Envoyer un autre message",
+        "error_message": "Quelque chose s'est mal passé. Veuillez réessayer."
     },
     "contact": {
         "title": "Contactez-nous",

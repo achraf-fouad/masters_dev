@@ -26,9 +26,8 @@ const Navbar = () => {
     const navLinks = [
         { name: t('story.title'), href: '#story' },
         { name: t('about.title'), href: '#about' },
-        { name: t('projects.title'), href: '#projects' }, // New Link
+        { name: t('projects.title'), href: '#projects' },
         { name: t('services.title'), href: '#services' },
-        { name: t('contact.title'), href: '#contact' },
     ];
 
     const languages = [
